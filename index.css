@@ -13,6 +13,7 @@ h1 {
   img {
     width: 400px;
     border-radius: 50%;
+     border: 5px solid rgb(6, 64, 255);
   }
 }
 .homework a{
@@ -35,14 +36,14 @@ h1 {
   gap: 30px;
 }
 body{
-  background-color: darkgreen;
+  background-color: rgb(10,137,223);
 }
 
 a{
   text-decoration: none;
   font-size: 24px;
   color: #fff;
-  background-color: blue;
+  background-color:  rgb(36, 168, 255);
   padding: 10px 15px;
 }
 
